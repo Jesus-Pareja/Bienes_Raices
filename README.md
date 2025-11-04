@@ -6,6 +6,21 @@ Permite gestionar propiedades, vendedores y usuarios(a travez de la base de dato
 ## 🏠 Vista principal
 ![Inicio](readme-assets/1.png)
 
+## 🏠 Vista principal oscura
+![Inicio Oscuro](readme-assets/INDEX_BLACK.png)
+
+### 🏡 **Anuncios**
+![Vista de anuncios](readme-assets/Anuncios_I.png)
+
+### 🔐 **Login**
+![Pantalla de login](readme-assets/LOGIN.png)
+
+### 🧭 **Panel Administrador**
+![Panel administrador](readme-assets/ADM_PANEL.png)
+
+![Panel administrador](readme-assets/PANEL_ADM2.png)
+
+
 ---
 
 ## 🚀 Tecnologías utilizadas

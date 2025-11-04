@@ -3,6 +3,15 @@
 Proyecto web completo desarrollado como práctica de un sistema inmobiliario.  
 Permite gestionar propiedades, vendedores y usuarios(a travez de la base de datos), conectándose a una base de datos **MySQL** y utilizando herramientas como **PHP**, **SASS**, **Gulp**, y **npm** para automatizar el flujo de desarrollo.  
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 ## 🏠 Vista principal
 ![Inicio](readme-assets/1.png)
 

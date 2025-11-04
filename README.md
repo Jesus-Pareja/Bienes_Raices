@@ -3,6 +3,9 @@
 Proyecto web completo desarrollado como práctica de un sistema inmobiliario.  
 Permite gestionar propiedades, vendedores y usuarios(a travez de la base de datos), conectándose a una base de datos **MySQL** y utilizando herramientas como **PHP**, **SASS**, **Gulp**, y **npm** para automatizar el flujo de desarrollo.  
 
+## 🏠 Vista principal
+![Inicio](readme-assets/1.png)
+
 ---
 
 ## 🚀 Tecnologías utilizadas

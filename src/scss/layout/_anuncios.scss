@@ -10,30 +10,54 @@
     background-color: color.adjust($gris, $lightness: 5%);
     border: 1px solid color.adjust($gris, $lightness: -10%);
     margin-bottom: 2rem;
+    
+    
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 
     .contenido-anuncio{
-
         padding: 2rem;
+        
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        
+        // Hacer que la descripción tenga altura fija o limitada
+        p {
+            // Limitar a 6 líneas aproximadamente
+            display: -webkit-box;
+            -webkit-line-clamp: 6;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex: 1;
+        }
+        
+        
+        .boton {
+            margin-top: auto;
+        }
     }
 
     h3, p{
         margin: 0;
     }
-
-
 }
 
-    .precio{
-        color: $verde;
-        font-weight: $bold;
-        font-size: 3rem;
-    }
+.precio{
+    color: $verde;
+    font-weight: $bold;
+    font-size: 3rem;
+    margin: 1rem 0 !important; // Asegurar espacio consistente
+}
 
 .iconos-caracteristicas{
     display: flex;
     list-style: none;
     padding: 0;
     max-width: 40rem;
+    margin-bottom: 2rem; // Espacio antes del botón
 
     li{
         flex: 1;

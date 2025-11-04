@@ -1,5 +1,4 @@
 <?php
-var_dump($_POST);
 
 //Conectar Base de datos
 require 'includes/config/database.php';

@@ -1,0 +1,15 @@
+{
+    "name": "yisus/bienesraices_inicio",
+    "autoload": {
+        "psr-4": {
+            "Yisus\\BienesraicesInicio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesus-Pareja",
+            "email": "jesus.hurtado.pareja@gmail.com"
+        }
+    ],
+    "require": {}
+}

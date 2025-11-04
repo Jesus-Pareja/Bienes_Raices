@@ -1,0 +1,11 @@
+# Ignorar archivos sensibles
+.env
+vendor/
+node_modules/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+*.cache
+.DS_Store
+
